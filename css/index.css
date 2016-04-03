@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(141, 17, 17);
+  font: 400 1.563em/1.38 'Open Sans';
+  color: rgb(255, 255, 255);
+}
+
+.text {
+  float: left;
+  margin-left: 120px;
+  line-height: 1.38;
+  color: rgb(255, 255, 255);
+}
+
+.text-1 {
+  width: 961px;
+  min-height: 55px;
+  margin-top: 133px;
+  font-size: 4em;
+  font-weight: 800;
+}
+
+.text-2 {
+  clear: both;
+  width: 552px;
+  min-height: 146px;
+  margin-top: 42px;
+  font-size: 1em;
+  font-weight: 400;
+}
